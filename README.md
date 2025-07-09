@@ -19,7 +19,7 @@ Estou estudando HTML e CSS, e avançando no JavaScript. Gosto de aprender na pr�
 
 ## 💻 Projetos em destaque
 
-- 🌐 [Portfólio Pessoal O Diário da Maria](https://o-diario-da-maria.surge.sh/))  
+- 🌐 [Portfólio Pessoal O Diário da Maria](https://maria-tech66.github.io/projeto1-diario-pessoal/)  
 - 🛍️ [Página de Produto](https://github.com/maria-tech66/pagina-produto)  
 - 📝 [Mini Blog](https://github.com/maria-tech66/mini-blog-html-css)
 
